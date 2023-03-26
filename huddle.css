@@ -632,8 +632,9 @@ svg:hover path {
   }
 
   .item4-1 {
-    margin-top: 212px;
+    align-items: baseline;
     gap: 26px;
+    margin-top: 212px;
   }
 
   .flowing {
@@ -661,8 +662,9 @@ svg:hover path {
   }
 
   .item5-1 {
-    margin-top: 200px;
+    align-items: baseline;
     gap: 26px;
+    margin-top: 200px;
   }
 
   .your {
